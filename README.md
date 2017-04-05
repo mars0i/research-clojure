@@ -1,2 +1,6 @@
 # Research-Clojure-wiki
-A wiki on scientific and academic uses of Clojure, including research or business scientific applications, digital humanities, art, etc. 
+A wiki on scientific and academic uses of Clojure, including research or business scientific applications, digital humanities, art, etc.
+
+Rationale: Clojure has a vibrant and supportive community, with helpful people and many good libraries.  However, as far as I can tell, Clojure's popularity comes primarily from segments of the business community.  Clojure is apparently not currently popular among scientists (whether in academia or in the private sector), nor among non-science academics such as those working in digital humanities or computer-generated art.  It's not that there is no interest in using in these areas, but I thought it would be helpful to collect links to relevant work or discussions.  This will help those of us interested in such applications, and might help promote the use of Clojure in research applications.  
+
+I admit that I have a slightly selfish reason for wanting to promote the use of Clojure in research.  I'm a philosopher of science who does purely philosophical research, purely scientific research, and interdisciplinary research involving both dimensions simultaneously.  More interest in research Clojure could potentially lead to more resources that are particularly useful for research applications.
