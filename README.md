@@ -1,4 +1,4 @@
-# [Research-Clojure-wiki](https://github.com/mars0i/Research-Clojure-wiki/wiki)
+# [research-and-creative-clojure](https://github.com/mars0i/research-and-creative-clojure/wiki)
 A wiki on scientific and academic uses of Clojure, including research or business scientific applications, digital humanities, art, etc.
 
 Rationale: Clojure has a vibrant and supportive community, with helpful people and many good libraries.  However, as far as I can tell, Clojure's popularity comes primarily from segments of the business community.  Clojure is apparently not currently popular among scientists (whether in academia or in the private sector), nor among non-science academics such as those working in digital humanities or computer-generated art.  It's not that there is no interest in using in these areas, but I thought it would be helpful to collect links to relevant work or discussions.  This will help those of us interested in such applications, and might help promote the use of Clojure in research applications.  
